@@ -1,4 +1,4 @@
-# Alternative Fuel Vehicle Analysis
+# U.S. Electric Vehicle Market Share Analysis
 
 ## 📊 Project Overview
 Analysis of alternative fuel vehicle adoption across the United States to support infrastructure planning and EV adoption forecasting for a government transportation board.
